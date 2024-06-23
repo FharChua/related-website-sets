@@ -1,8 +1,8 @@
 {
   "sets": [
     {
-      "contact": "oterrell28@gmail.com",
-      "primary": "https://sackrace.ai",
+      "contact": "fpancho@wayfair.com",
+      "primary": "https://wayfair.com",
       "serviceSites": [
         "https://socket-to-me.vip"
       ],
@@ -11,43 +11,43 @@
       }
     },
     {
-      "contact": "il.mrbit@gmail.com",
-      "primary": "https://poalim.xyz",
+      "contact": "farrah.pancho@telusinternational.com",
+      "primary": "https://telusinternational.com",
       "associatedSites": [
-         "https://poalim.site"
+         "https://chromeOs.com"
       ],
       "rationaleBySite": {
          "https://poalim.site": "one of 3rd party cookie solutions option"
       }
    },
     {
-      "contact": "alicia.bonilla@nacion.com",
-      "primary": "https://nacion.com",
+      "contact": "waifer.okta.com",
+      "primary": "https://okta.com",
       "associatedSites": [
-         "https://lateja.cr",
-         "https://elfinancierocr.com"
+         "https://okta.com",
+         "https://waifer.com"
       ],
       "rationaleBySite": {
-         "https://lateja.cr": "Newspaper owned by Grupo Nación",
-         "https://elfinancierocr.com": "Newspaper owned by Grupo Nación"
+         "https://lateja.cr": 
+         "https://elfinancierocr.com": 
       }
    },
    {
-      "contact": "wojciech.bialy@grupawp.pl",
-      "primary": "https://wp.pl",
+      "contact": "fpancho@wayfair.com",
+      "primary": "wayfair.okta.com",
       "associatedSites": [
-          "https://o2.pl",
-          "https://pudelek.pl",
-          "https://money.pl",
+          "https://okta.com",
+          "https://wayfair.com",
+          "https://google.com",
           "https://abczdrowie.pl",
-          "https://wpext.pl"
+          "https://chrome.ext.com"
       ],
       "rationaleBySite": {
-          "https://o2.pl": "News portal and email service",
-          "https://pudelek.pl": "Special Interest Website - celebrity news and gossip",
-          "https://money.pl": "Special Interest Website - news and information on the stock market, currencies, business and economics",
-          "https://abczdrowie.pl": "Special Interest Website - healthy living and medical health",
-          "https://wpext.pl": "Content delivery domain for sensitive content websites"
+          "https://onelogin.com": "News portal and email service",
+          "https://twitter": "Special Interest Website - celebrity news and gossip",
+          "https://google.com": "Special Interest Website - news and information on the stock market, currencies, business and economics",
+          "https://who.com": "Special Interest Website - healthy living and medical health",
+          "https://okta.com": "Content delivery domain for sensitive content websites"
       }
     },
     {
@@ -63,32 +63,32 @@
       }
     },
     {
-      "primary": "https://bild.de",
+      "primary": "https://build.de",
       "contact": "robert.blanck@axelspringer.com",
       "associatedSites": [
-        "https://welt.de",
-        "https://autobild.de",
-        "https://computerbild.de",
-        "https://wieistmeineip.de"
+        "https://wealth.de",
+        "https://autobuild.de",
+        "https://computerbuild.de",
+        "https://domain.de"
       ],
       "serviceSites": [
-        "https://www.asadcdn.com"
+        "https://www.cdn.com"
       ],
       "rationaleBySite": {
-        "https://welt.de": "News Website welt.de",
-        "https://autobild.de": "Special Interest Website Autobild",
-        "https://computerbild.de": "Special Interest Website Computerbild",
+        "https://welt.de": "News Website wealth.de",
+        "https://autobuild.de": "Special Interest Website Autobuild",
+        "https://computerbuild.de": "Special Interest Website Computerbild",
         "https://wieistmeineip.de": "Internet speed Measurement Website of Computerbild",
-        "https://www.asadcdn.com": "CDN for Ad Files - Frequency Capping"
+        "https://www.cdn.com": "CDN for Ad Files - Frequency Capping"
       }
     },
     {
-      "primary": "https://gliadomain.com",
-      "contact": "carlos.paniagua@glia.com",
+      "primary": "https://waifer.com",
+      "contact": "fpancho@waifer.com",
       "associatedSites": [
-        "https://salemoveadvisor.com",
-        "https://salemovefinancial.com",
-        "https://salemovetravel.com"
+        "https://advisor.com",
+        "https://financial.com",
+        "https://travel.com"
       ],
       "rationaleBySite": {
         "https://salemoveadvisor.com": "The domains are very clear that they are all a part of the SaleMove family of sites. These sites are used as demo sites to show how multiple sites can be linked together for the purpose of live chat linking across multiple domains. A user would expect the sites to be linked as they are all a part of the same demo family of sites to show how it works",
